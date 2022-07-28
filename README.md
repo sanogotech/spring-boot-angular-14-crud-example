@@ -24,7 +24,23 @@ mvn spring-boot:run
 The Spring Boot Server will export API at port `8081`.
 
 ## Run Angular Client
+
+
+```
+* Désinstallation d'angular-cli
+npm uninstall -g @angular/cli
+```
+
+
+```
+npm cache clear --force
+ * Installation d'angular-cli dernière version disponible
+npm install -g @angular/cli
+```
+
 ```
 npm install
-ng serve --port 8081
+ng serve   (default port 4200)
+or
+* ng serve --port 8081
 ```
