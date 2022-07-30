@@ -8,7 +8,7 @@ Tutorial Application in that:
 - There is a Search bar for finding Tutorials by title.
 
 ## Docs
-- https://www.geeksforgeeks.org/angular-cli-angular-project-setup/
+- 
 - https://angular.io/tutorial/toh-pt3    // ng generate component
 
 ##  Generate Component
