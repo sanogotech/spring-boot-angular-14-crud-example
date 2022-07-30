@@ -7,10 +7,24 @@ Tutorial Application in that:
 - We can create, retrieve, update, delete Tutorials.
 - There is a Search bar for finding Tutorials by title.
 
-![angular-14-crud-example](angular-14-crud-example.png)
+## Docs
+- https://www.geeksforgeeks.org/angular-cli-angular-project-setup/
+- https://angular.io/tutorial/toh-pt3    // ng generate component
 
+##  Generate Component
+```
+ng generate --help
+>ng generate component   ./components/hero-detail
+
+```
+## Run 
+![angular-14-crud-example](angular-14-crud-example.png)
+```
+ng  serve    for  dev server.  Navigate to default url http://localhost:4200
+```
 Run `ng serve --port 8081` for a dev server. Navigate to `http://localhost:8081/`. The app will automatically reload if you change any of the source files.
 
+# Examples
 For instruction, please visit:
 > [Angular example: CRUD Application with Rest API](https://www.bezkoder.com/angular-14-crud-example/)
 
