@@ -17,6 +17,10 @@ More Practice:
 
 > [Angular + Spring Boot: JWT Authentication and Authorization example](https://www.bezkoder.com/angular-13-spring-boot-jwt-auth/)
 
+##  How to ActivatedRoute in Angular and how to mock it in Unit Tests
+
+- https://dev.to/amerigom/how-to-activatedroute-in-angular-and-how-to-mock-it-in-unit-tests-2ne6
+
 ## Run Spring Boot application
 ```
 mvn spring-boot:run
